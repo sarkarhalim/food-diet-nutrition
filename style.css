@@ -28,3 +28,8 @@ div p {
   border-color: darkviolet;
   border-radius: 15px;
 }
+.top-banner {
+  background-image: url(images/background-solid.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}

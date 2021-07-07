@@ -42,6 +42,7 @@ div p {
 }
 .mid-banner {
   background-image: url(images/shapes/Frame\ 59.jpg);
+  background-size: cover;
 }
 
 .half-width {
